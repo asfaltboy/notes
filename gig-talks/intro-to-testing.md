@@ -1,6 +1,6 @@
 ---
 title: (gig) Introduction to testing
-tags: testing, tdd, f.i.r.s.t, unit-testing, mocking, talk
+tags: talk, testing, tdd, f.i.r.s.t, unit-testing, mocking
 description: Introduction to testing
 slideOptions: 
     transition: 'fade'
