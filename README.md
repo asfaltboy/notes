@@ -1,3 +1,3 @@
-# notes
+# Public notes
 
-All my talks are here
+The intention is to have all my public talks and notes from hackmd.io stored here
