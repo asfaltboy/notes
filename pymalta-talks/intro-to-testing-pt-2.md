@@ -1,6 +1,6 @@
 ---
 title: (pymalta) Introduction to testing pt. 2
-tags: testing, coverage, test-types, pytest, CI, talk
+tags: talk, testing, coverage, test-types, pytest, CI
 description: Introduction to testing
 slideOptions: 
     theme: 'white'
