@@ -1,6 +1,6 @@
 ---
 title: (pymalta) Introduction to testing pt. 1
-tags: testing, tdd, f.i.r.s.t, unit-testing, mocking, talk
+tags: talk, testing, tdd, f.i.r.s.t, unit-testing, mocking
 description: Introduction to testing
 slideOptions: 
     theme: 'white'
